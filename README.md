@@ -6,4 +6,5 @@
 3. indent-rainbow
 4. Prettier - Code formatter
 5. Rainbow Brackets
+6. vscode-icons
 ```
