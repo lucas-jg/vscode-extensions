@@ -7,4 +7,7 @@
 4. Prettier - Code formatter
 5. Rainbow Brackets
 6. vscode-icons
+7. Syntax Highlighting - language-babel
+8. Autocompletion - vscode-styled-components
+9. Linting - stylelint
 ```
